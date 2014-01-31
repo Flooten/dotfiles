@@ -1,2 +1,2 @@
-dotfiles
+Flooten's dotfiles
 ========
